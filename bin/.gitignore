@@ -1,14 +1,2 @@
-/Dice.class
-/Enemy.class
-/GUI.class
-/Generator.class
-/Input.class
-/Inventory.class
-/Items.class
-/Main.class
-/Player.class
-/Position.class
-/Room.class
-/RoomWithLock.class
-/Weapon.class
-/World.class
+/snippet/
+/src/
